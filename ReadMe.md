@@ -1,15 +1,84 @@
-# 💫 About Me:
-I'm Rajiv Kumar Sah, a Computer Science student at the National Institute of Technology Silchar, graduating in 2025. I have a passion for software development, web development, and machine learning, and I love to create innovative solutions to challenging problems.<br><br>- 🌱 I’m currently learning more about Machine Learning techniques and full-stack development.<br>- 👯 I’m looking to collaborate on exciting web development and machine learning projects.<br>- 💬 Ask me about C++, Python, React, React Native, Node.js, MongoDB, and general web development.<br>
+<div align="center">
 
+# Rajiv Kumar Sah
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rajivsah240&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajivsah240&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajivsah240&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Software Developer · ML Practitioner · Builder**
+
+[![NIT Silchar](https://img.shields.io/badge/NIT_Silchar-CSE_2025-1a1a2e?style=flat-square&labelColor=0f0f23)](https://www.nits.ac.in/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rajivsah240&style=flat-square&color=1a1a2e)](https://github.com/Rajivsah240)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajivsah240&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build web applications and machine learning systems. Currently finishing my CS degree at NIT Silchar (2025). I work across the full stack and enjoy solving hard problems with clean code.
+
+**What I work on:** Full stack web apps, cross platform mobile apps, ML pipelines, REST APIs.
+
+**What I want to build next:** Open to collaborating on web development and machine learning projects with real users and real impact.
+
+---
+
+### Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-0f0f23?style=flat-square&logo=c&logoColor=6e9eff)
+![C++](https://img.shields.io/badge/C++-0f0f23?style=flat-square&logo=c%2B%2B&logoColor=6e9eff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f23?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Python](https://img.shields.io/badge/Python-0f0f23?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML-0f0f23?style=flat-square&logo=html5&logoColor=e34f26)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0f0f23?style=flat-square&logo=react&logoColor=61dafb)
+![React Native](https://img.shields.io/badge/React_Native-0f0f23?style=flat-square&logo=react&logoColor=61dafb)
+![Expo](https://img.shields.io/badge/Expo-0f0f23?style=flat-square&logo=expo&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f0f23?style=flat-square&logo=node.js&logoColor=6da55f)
+![Express](https://img.shields.io/badge/Express-0f0f23?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0f0f23?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0f23?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![MySQL](https://img.shields.io/badge/MySQL-0f0f23?style=flat-square&logo=mysql&logoColor=4479a1)
+![Firebase](https://img.shields.io/badge/Firebase-0f0f23?style=flat-square&logo=firebase&logoColor=ffca28)
+
+**ML & Analysis**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f0f23?style=flat-square&logo=scikit-learn&logoColor=f7931e)
+![Pandas](https://img.shields.io/badge/Pandas-0f0f23?style=flat-square&logo=pandas&logoColor=150458)
+
+**Deploy**
+
+![Netlify](https://img.shields.io/badge/Netlify-0f0f23?style=flat-square&logo=netlify&logoColor=00c7b7)
+![Firebase](https://img.shields.io/badge/Firebase_Hosting-0f0f23?style=flat-square&logo=firebase&logoColor=ffca28)
+
+---
+
+### Numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajivsah240&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0f23&title_color=6e9eff&text_color=c9d1d9&icon_color=6e9eff" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajivsah240&theme=github_dark_dimmed&hide_border=true&layout=compact&bg_color=0f0f23&title_color=6e9eff&text_color=c9d1d9" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajivsah240&theme=github-dark-blue&hide_border=true&background=0f0f23&ring=6e9eff&fire=6e9eff&currStreakLabel=6e9eff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something.**
+
+[![Email](https://img.shields.io/badge/Email-0f0f23?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f23?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/your-profile)
+
+</div>
